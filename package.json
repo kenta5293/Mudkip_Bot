@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kenta5293/Mudkip_Bot/issues"
   },
-  "homepage": "https://github.com/kenta5293/Mudkip_Bot#readme"
+  "homepage": "https://github.com/kenta5293/Mudkip_Bot#readme",
+  "devDependencies": {
+    "gitmoji-cli": "^8.4.0"
+  }
 }
